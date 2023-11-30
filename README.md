@@ -1,5 +1,8 @@
 # Advent of Code
 
+### disclaimer: 
+in 2023 I borrowed this sweet setup made by @mlubej. 
+
 This is my repo for collecting tasks for AoC.
 
 I added a script that creates a directory for the task you're working on and loads a notebook from a template. The notebook already contains the basic structure and uses [aoc-data](https://github.com/wimglenn/advent-of-code-data) for importing the input data (check the link for instructions.)
